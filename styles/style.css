@@ -166,56 +166,8 @@ margin-top: 30px;
     border-radius: 20px;
     z-index: -1;
 }
-/* why web development style start */
-.why-web-development{
-    width: 1140px;
-    height:800px;
-    margin: 0 auto;
-    margin-top: 100px;
-   }
-   .why-web-dev-heading{
-    width:852px;
-    height:115px;
-    margin: 0 auto;
-    margin-top:130px;
-   }
-   .why-web-dev-heading>p{
-       margin-top: 30px;
-   }
-   .cart-container{
-       width: 850px;
-       height: 240px;
-       margin:0 auto;
-       margin-top:20px;
-       display: flex;
-   }
-   .cart-content{
-       text-align: left;
-       display: flex;
-       flex-direction: column;
-       justify-content: space-around;
-       
-   }
-   .cart-content>h1{
-       color: rgb(13, 19, 33);
-       font-size: 54px;
-       font-weight: 800;
-       }
-   .cart-content>p{
-       color: rgb(13, 19, 33);
-       font-size: 12px;
-       font-weight: 400;
-   }
-   .cart-content>button{
-       height:44px;
-       width:150px;
-       color: rgb(13, 19, 33);
-       font-size:12px;
-       font-weight: 600;
-   }
-   .cart1-img{
-       margin-left: auto;
-   }
+
+
    /* my current target style start  */
    .my-current-target-container{
     width: 1140px;
@@ -272,7 +224,7 @@ margin-top: 30px;
  background-color: #fffcf3;
 }
 
-/* my current target style end  */
+
    /* my next target style start  */
    .my-next-target-containar{
     width: 1140px;
@@ -305,5 +257,64 @@ margin-top: 30px;
 .skill-cart-img{
  padding-left: 20px;
 }
- 
+
+
+    /* support section style start  */
+    .support-container{
+       width: 1140px;
+       height:400px;
+       margin: 0 auto;
+       background-image: url(../assets/handshake.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin-bottom: 130px;
+    }
+    .support-heading{
+       padding-top:150px;
+    } 
+    .support-heading>h1{
+       font-size:40px;
+       font-weight: 700;
+       color:rgb(255, 255, 255);
+    }
+    .support-input{
+       height: 57px;
+       width: 500px;
+       margin: 0 auto;
+       margin-top: 80px;
+       
+   }
+   input{
+       width:72%;
+       height: 100%;
+       border-radius:7px;
+      color: rgba(13, 19, 33, 0.4);
+      text-align: center;
+      border: #f3f6ff;
+   }
+   button{
+       width: 20%;
+       height:100%;
+       border-radius:7px;
+       color: rgb(13, 19, 33);
+       font-size: 20px;
+       font-weight: 600;
+       border: #f3f6ff;
+       padding: 5px;
+   }
+
+   /* footer style start  */
+   .footer-continer{
+       width: 1440px;
+       height: 100px;
+       display: flex;
+       justify-content: space-between;
+       margin: 0 auto;
+       
+   }
+   .footer-text{
+       margin-left:200px;
+       font-weight: 800;
+   }
+    
   
