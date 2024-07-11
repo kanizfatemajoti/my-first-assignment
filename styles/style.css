@@ -136,5 +136,33 @@ margin-top: 30px;
    .cart1-img{
        margin-left: auto;
    }
+   /* my-inspiration style start  */
+   .my-inspiration-container{
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+}
+.my-inspiration-content{
    
- 
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+}
+.my-inspiration-content>p{
+    margin-top: 30px;
+}
+.my-inspiration-video-container{
+    width: 1140px;
+    height: 614px;
+    margin-top: 40px;
+    border: 2px solid wheat;
+}
+.my-inspiration-video{
+ background-color: 10px solid white;
+    width: 1076px;
+    height: 550px;
+    margin:0 auto;
+    margin-top:32px;
+    border-radius: 20px;
+    z-index: -1;
+}
