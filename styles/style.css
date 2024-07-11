@@ -166,3 +166,144 @@ margin-top: 30px;
     border-radius: 20px;
     z-index: -1;
 }
+/* why web development style start */
+.why-web-development{
+    width: 1140px;
+    height:800px;
+    margin: 0 auto;
+    margin-top: 100px;
+   }
+   .why-web-dev-heading{
+    width:852px;
+    height:115px;
+    margin: 0 auto;
+    margin-top:130px;
+   }
+   .why-web-dev-heading>p{
+       margin-top: 30px;
+   }
+   .cart-container{
+       width: 850px;
+       height: 240px;
+       margin:0 auto;
+       margin-top:20px;
+       display: flex;
+   }
+   .cart-content{
+       text-align: left;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-around;
+       
+   }
+   .cart-content>h1{
+       color: rgb(13, 19, 33);
+       font-size: 54px;
+       font-weight: 800;
+       }
+   .cart-content>p{
+       color: rgb(13, 19, 33);
+       font-size: 12px;
+       font-weight: 400;
+   }
+   .cart-content>button{
+       height:44px;
+       width:150px;
+       color: rgb(13, 19, 33);
+       font-size:12px;
+       font-weight: 600;
+   }
+   .cart1-img{
+       margin-left: auto;
+   }
+   /* my current target style start  */
+   .my-current-target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+
+.my-current-tatget-heading>p{
+    margin-top: 30px;
+ 
+}
+.my-current-tatget-cart{
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    margin-top:48px;
+    text-align: left;
+    gap: 24px;
+}
+.my-current-target-cart1{
+    width: 364px;
+    height: 299px;
+    background-color: cornflowerblue;
+    padding: 40px;
+}
+.my-current-target-cart1>h4{
+   margin-top: 20px;
+   color: rgb(13, 19, 33);
+   font-size: 25px;
+   font-weight: 800;
+}
+.my-current-target-cart1>p{
+    margin-top: 20px;
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 400;
+ }
+ .cart-link>a{
+    color:black;
+    font-weight: bold;
+ }
+ .cart-link{
+    margin-top: 40px;
+   
+ }
+ #bg1{
+   background-color:#fef6f5;
+ }
+ #bg2{
+  background-color:#f3f6ff;
+ }
+#bg3{
+ background-color: #fffcf3;
+}
+
+/* my current target style end  */
+   /* my next target style start  */
+   .my-next-target-containar{
+    width: 1140px;
+    height: 866px;
+    margin: 0 auto;
+}
+.my-next-target-heading>p{
+    margin-top: 30px;
+}
+.skills-container{
+    width: 1140px;
+    height: 705px;
+    padding-top: 30px;
+    margin-top: 20px;
+   
+}
+.skill-cart{
+    width: 1140px;
+    height: 219px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: start;
+    gap: 30px;
+    border: 2px solid rgba(0,0,0,0.2 );
+    border-radius: 10px;
+    margin-bottom:20px;
+
+} 
+.skill-cart-img{
+ padding-left: 20px;
+}
+ 
+  
